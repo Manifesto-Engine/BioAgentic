@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════
-   Manifesto Engine — Dark Matrix Theme
+   BioAgentic — Dark Matrix Theme
    ═══════════════════════════════════════════════ */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap');
@@ -192,7 +192,7 @@ body {
 /* ── Hero (Landing Page) ────────────────────── */
 .hero--manifesto {
   background: radial-gradient(ellipse at 50% 0%, rgba(0, 255, 65, 0.08) 0%, transparent 60%),
-              #0a0a0a;
+    #0a0a0a;
   padding: 6rem 0;
   text-align: center;
   position: relative;
@@ -324,9 +324,17 @@ body {
   background: #333;
 }
 
-.terminal-preview__dot--red { background: #ff5f57; }
-.terminal-preview__dot--yellow { background: #ffbd2e; }
-.terminal-preview__dot--green { background: #28c840; }
+.terminal-preview__dot--red {
+  background: #ff5f57;
+}
+
+.terminal-preview__dot--yellow {
+  background: #ffbd2e;
+}
+
+.terminal-preview__dot--green {
+  background: #28c840;
+}
 
 .terminal-preview__body {
   padding: 1.25rem;
