@@ -47,7 +47,7 @@ Restart the organism. The brain will automatically detect the LLM and switch fro
 
 ## The Full Organ Catalog (20+)
 
-The starter kit has four organs. The full Sovereign Organism adds:
+The starter kit has four organs. The full BioAgentic platform adds:
 
 | Organ | Module | Pulse Frequency | Role |
 |---|---|---|---|

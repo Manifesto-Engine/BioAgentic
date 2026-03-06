@@ -25,7 +25,7 @@ const FEATURES = [
 
 const TERMINAL_LINES = [
   { type: 'cmd', text: '$ uvicorn main:app --port 8000' },
-  { type: 'dim', text: 'INFO     Sovereign Organism — birth sequence initiated' },
+  { type: 'dim', text: 'INFO     BioAgentic — birth sequence initiated' },
   { type: 'bright', text: 'INFO     🫀 Heartbeat started — pulse every 10s' },
   { type: 'bright', text: 'INFO     🧠 Brain online — local LLM inference connected (Ollama)' },
   { type: 'bright', text: 'INFO     🛡️ Immune system armed' },
@@ -70,7 +70,7 @@ export default function Home() {
       {/* ── Hero ──────────── */}
       <header className="hero--manifesto">
         <div className="container">
-          <h1>Sovereign Organism</h1>
+          <h1>BioAgentic</h1>
           <p>
             Cultivate autonomous, biologically-inspired AI agents.
             Four organs. One heartbeat. Clone it, run it, watch it breathe.

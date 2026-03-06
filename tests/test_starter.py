@@ -1,4 +1,4 @@
-"""Test Suite — Sovereign Organism Starter Kit.
+"""Test Suite — BioAgentic Starter Kit.
 
 Covers all four organs, the pipeline engine, sandbox, and Sovereign Script compiler.
 """

@@ -4,9 +4,9 @@ title: Introduction
 slug: /intro
 ---
 
-# What Is the Sovereign Organism?
+# What Is BioAgentic?
 
-The Sovereign Organism is a **living AI agent runtime** — not a chatbot, not a script runner. It boots as a server process, pulses through a biological lifecycle every 10 seconds, and maintains persistent memory between sessions.
+BioAgentic is a **living AI agent runtime** — not a chatbot, not a script runner. It boots as a server process, pulses through a biological lifecycle every 10 seconds, and maintains persistent memory between sessions.
 
 It has **four core organs**:
 
@@ -43,7 +43,7 @@ The starter kit gives you the minimum viable organism: four organs, a pipeline e
 - Set up reflexes (auto-triggered pipelines on schedule)
 - Monitor health via REST API
 
-The full Sovereign Organism extends this to **20+ organs** — dreams, genetics, evolution, federation, perception, and more. The starter kit is the foundation.
+The full BioAgentic platform extends this to **20+ organs** — dreams, genetics, evolution, federation, perception, and more. The starter kit is the foundation.
 
 ---
 

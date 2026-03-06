@@ -1,4 +1,4 @@
-# Sovereign Organism — Starter Kit
+# BioAgentic — Starter Kit
 
 A living AI agent runtime. Four organs. One heartbeat. Clone it, run it, watch it breathe.
 
@@ -164,7 +164,7 @@ Supported providers:
 
 ## What's Next
 
-This starter gives you the four essential organs. The full Sovereign Organism has 20+:
+This starter gives you the four essential organs. The full BioAgentic platform has 20+:
 
 - 💭 **Dreams** — offline pattern synthesis during idle
 - 🧬 **DNA** — pipeline genetics and genome tracking

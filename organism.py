@@ -1,4 +1,4 @@
-"""Sovereign Organism — The Living Runtime.
+"""BioAgentic — The Living Runtime.
 
 Not a compiler. Not a script runner. A living process.
 

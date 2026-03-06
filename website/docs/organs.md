@@ -5,7 +5,7 @@ title: Organs
 
 # The Four Starter Organs
 
-Every Sovereign Organism is built from organs — self-contained modules that handle a specific biological function. The starter kit ships with four, implemented in the `organs/` package.
+Every BioAgentic organism is built from organs — self-contained modules that handle a specific biological function. The starter kit ships with four, implemented in the `organs/` package.
 
 ```python
 # organs/__init__.py — what's exported

@@ -1,4 +1,4 @@
-"""Sovereign Organism — Starter Kit.
+"""BioAgentic — Starter Kit.
 
 The minimal entry point. Boots the organism on server start,
 kills it on shutdown. That's it.
@@ -40,7 +40,7 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="Sovereign Organism",
+    title="BioAgentic",
     description="A living AI agent runtime with persistent memory, "
                 "autonomous reasoning, and evolutionary pipelines.",
     version="1.0.0",
@@ -55,7 +55,7 @@ app.include_router(engine_router)
 def root():
     """Health check."""
     return {
-        "organism": "Sovereign Organism Starter Kit",
+        "organism": "BioAgentic Starter Kit",
         "version": "1.0.0",
         "alive": _organism.vitals.alive,
         "docs": "/docs",
