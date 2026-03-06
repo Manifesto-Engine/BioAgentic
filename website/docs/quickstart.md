@@ -13,8 +13,8 @@ title: Quickstart
 ## Boot It
 
 ```bash
-git clone https://github.com/manifesto-engine/sovereign-organism-starter.git
-cd sovereign-organism-starter
+git clone https://github.com/Manifesto-Engine/BioGentic-Agents.git
+cd BioGentic-Agents
 pip install -r requirements.txt
 uvicorn main:app --port 8000
 ```

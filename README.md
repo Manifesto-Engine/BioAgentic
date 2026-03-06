@@ -3,8 +3,8 @@
 A living AI agent runtime. Four organs. One heartbeat. Clone it, run it, watch it breathe.
 
 ```
-git clone <this-repo>
-cd sovereign-organism-starter
+git clone https://github.com/Manifesto-Engine/BioGentic-Agents.git
+cd BioGentic-Agents
 pip install -r requirements.txt
 uvicorn main:app --port 8000
 ```
