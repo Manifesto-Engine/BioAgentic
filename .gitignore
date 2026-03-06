@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+cortex.db
+cortex.db-shm
+cortex.db-wal
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Docusaurus
+website/node_modules/
+website/build/
+website/.docusaurus/
+
+# Starter organism
+manifesto-starter-organism/.venv/
+manifesto-starter-organism/__pycache__/
+manifesto-starter-organism/cortex.db

@@ -1,0 +1,5 @@
+pipeline hello_world {
+  let msg = "Hello from the Sovereign Organism"
+  cx_remember(msg, ["greeting", "first_run"])
+  print(msg)
+}
