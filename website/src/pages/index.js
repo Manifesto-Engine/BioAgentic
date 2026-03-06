@@ -27,7 +27,7 @@ const TERMINAL_LINES = [
   { type: 'cmd', text: '$ uvicorn main:app --port 8000' },
   { type: 'dim', text: 'INFO     Sovereign Organism — birth sequence initiated' },
   { type: 'bright', text: 'INFO     🫀 Heartbeat started — pulse every 10s' },
-  { type: 'bright', text: 'INFO     🧠 Brain online — rule-based mode' },
+  { type: 'bright', text: 'INFO     🧠 Inference engine initialized' },
   { type: 'bright', text: 'INFO     🛡️ Immune system armed' },
   { type: 'bright', text: 'INFO     🧠 Cortex loaded — 0 memories' },
   { type: 'dim', text: 'INFO     Application startup complete.' },

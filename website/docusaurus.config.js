@@ -14,8 +14,8 @@ const config = {
   url: 'https://www.manifesto-engine.com',
   baseUrl: '/',
 
-  organizationName: 'manifesto-engine',
-  projectName: 'sovereign-organism',
+  organizationName: 'Manifesto-Engine',
+  projectName: 'BioGentic-Agents',
 
   onBrokenLinks: 'throw',
 
@@ -64,7 +64,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://github.com/manifesto-engine/sovereign-organism',
+            href: 'https://github.com/Manifesto-Engine/BioGentic-Agents',
             label: 'GitHub',
             position: 'right',
           },
@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/manifesto-engine/sovereign-organism',
+                href: 'https://github.com/Manifesto-Engine/BioGentic-Agents',
               },
             ],
           },
