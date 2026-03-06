@@ -15,7 +15,7 @@ const config = {
   baseUrl: '/',
 
   organizationName: 'Manifesto-Engine',
-  projectName: 'BioGentic-Agents',
+  projectName: 'BioAgentic',
 
   onBrokenLinks: 'throw',
 
@@ -64,7 +64,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://github.com/Manifesto-Engine/BioGentic-Agents',
+            href: 'https://github.com/Manifesto-Engine/BioAgentic',
             label: 'GitHub',
             position: 'right',
           },
@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/Manifesto-Engine/BioGentic-Agents',
+                href: 'https://github.com/Manifesto-Engine/BioAgentic',
               },
             ],
           },
